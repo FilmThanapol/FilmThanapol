@@ -1,67 +1,65 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Thanapol Chiraporn",
+    "username": "FilmThanapol",
+    "headline": "Data Analytics Engineer | Python Developer",
+    "affiliation": "Computer Science, Burapha University",
+    "location": "Bangkok, Thailand",
+    "status": "Learning • Building • Growing",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Computer Science graduate building data-driven applications with Python, SQL, ETL, and AI.",
+      "I enjoy transforming raw data into reliable insights through analytics, automation, and practical software solutions."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Data Engineering",
+    "direction": "Data Analytics & AI Applications",
+    "themes": "ETL / SQL / Machine Learning ",
+    "narrative": "I am passionate about designing reliable data pipelines, building analytics solutions, and applying AI to solve real-world problems. My goal is to develop systems that deliver accurate insights, automate workflows, and support better decision-making."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Data Engineering",
+      "description": "Building ETL pipelines, data warehouses, and reliable data processing workflows."
+    },
+    {
+      "name": "Data Analytics",
+      "description": "Analyzing data, creating dashboards, and generating actionable business insights."
     },
     {
       "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
-    },
-    {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "description": "Developing AI-powered applications using NLP, OCR, vector databases, and machine learning."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "FILM_PORTFOLIO",
+      "url": "https://github.com/FilmThanapol/FILM_PORTFOLIO.git",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Personal Web Portfolio.",
+      "summary": "A modern personal web portfolio for Computer Science student Film, highlighting skills in Business Analysis, Frontend Development, interactive UI design, and showcase projects",
+      "heroLabel": "Personal Portfolio"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "weather-buddies",
+      "url": "https://github.com/FilmThanapol/dreamy-weather-buddies.git",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Real-time weather by external Weather APIs",
+      "summary": "A responsive weather forecast application that fetches real-time meteorological data via APIs, providing users with accurate live updates and intuitive visual forecast dashboards",
+      "heroLabel": "API Integration, Weather App"
     }
   ],
   "techStack": [
     "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "HTML",
+    "CSS"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "FilmThanapol",
+      "url": "https://github.com/FilmThanapol",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +71,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Turning data into insights and ideas into practical software."
 }
